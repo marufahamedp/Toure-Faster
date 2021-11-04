@@ -1,0 +1,13 @@
+.product-text{
+    transition: .5s ease;
+    opacity: 1;
+    position: absolute;
+    top: 65%;
+    left: 55%;
+    transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    color: white;
+    width: 100%;
+    font-weight: 600;
+    padding: 0 20px 0 20px;
+}

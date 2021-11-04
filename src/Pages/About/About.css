@@ -1,0 +1,26 @@
+.cover-bg{
+    background-image: url('../../Images/coverbg-about.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cover-bg-text{
+    transition: .5s ease;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -0%);
+    color: #FFC107;
+    padding: 0 20px 0 20px;
+}
+.cover-bg-text h1{
+    font-weight: 900 !important;
+}
+.coverbg-container{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.5s;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.205);
+}

@@ -1,0 +1,32 @@
+.coverImage{
+    filter: blur(2px);
+}
+.top-slider{
+   height: 350px;
+}
+
+.text-area{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.267);
+    height: 100%;
+}
+.text-area > div > h1{
+    font-size: 5rem;
+    font-weight: 900;
+}
+.img{
+    overflow: hidden;
+    
+}
+.img img{
+    transition: all 0.3s;
+}
+.img:hover img{
+    transform: scale(1.1);
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    background-color: #FFC107;
+    border-radius: 100%;
+}

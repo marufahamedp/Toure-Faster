@@ -1,0 +1,14 @@
+.tour-footer-icon{
+    color: #FFC107;
+}
+.tour-footer-icon i{
+    transition: all 0.5s;
+}
+.tour-footer-icon:hover{
+    color: #b98b02;
+    
+}
+.tour-footer-icon:hover i{
+    transform: rotate(360deg);
+    
+}
