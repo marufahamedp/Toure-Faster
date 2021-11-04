@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Maruf Ahamed
 
-I made this project for Programming-Hero Assignment
-
 # React Toure Faster Project
 
 Built with React CSS3 HTML5 Bootstrap.
